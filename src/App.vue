@@ -25,7 +25,7 @@
         <router-link to="/mypage" class="pure-menu-link">Add PC</router-link>
       </li>
       <li class="pure-menu-item">
-        <a href="https://github.com/BYU-CS-260-Winter-2019/lab-5-SamSchmuhl" class="pure-menu-link">Github</a>
+        <a href="https://github.com/SamSchmuhl/CreativeProject5.git" class="pure-menu-link">Github</a>
       </li>
     </ul>
   </div>
